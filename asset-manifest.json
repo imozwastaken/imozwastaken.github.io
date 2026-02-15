@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imozwastaken.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/imozwastaken.github.io/static/js/main.618249ec.js",
+    "static/js/453.f2bd1caa.chunk.js": "/imozwastaken.github.io/static/js/453.f2bd1caa.chunk.js",
+    "static/media/logo.svg": "/imozwastaken.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/imozwastaken.github.io/index.html",
+    "main.f855e6bc.css.map": "/imozwastaken.github.io/static/css/main.f855e6bc.css.map",
+    "main.618249ec.js.map": "/imozwastaken.github.io/static/js/main.618249ec.js.map",
+    "453.f2bd1caa.chunk.js.map": "/imozwastaken.github.io/static/js/453.f2bd1caa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.618249ec.js"
+  ]
+}
